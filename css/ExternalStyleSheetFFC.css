@@ -1,0 +1,134 @@
+body {
+		background-color: grey; 
+		color: white; 
+		font-family: Times New Roman, Arial, serif;
+		font-size: 12pt;
+		text-align: center;
+	
+		}
+
+h1 {
+		background-color: silver; 
+		color: white;
+		font-weight: 1000;
+		font-style: oblique;
+		text-align: center;
+		
+		}
+
+p	{
+		border: solid 10px white;
+		padding: 10px;
+		margin: 10px;
+		border-style: ridge;
+		border-width: 12px;
+		border-color: blue;
+		border-bottom-color: gold;
+		border-right-color: gold;
+		border-radius: 1  0px;
+		box-shadow: 10px 10px 20px black;
+		
+		}
+		
+ul	{
+	
+		display: inline-block;
+		border: solid 1px black;
+		padding: 17px;
+		padding-bottom: ;
+		margin: 5px;
+		border-style: groove;
+		border-width: 12px;
+		border-color: blue;
+		border-bottom-color: gold;
+		border-right-color: gold;
+		border-radius: 20px;
+		text-align: left;
+		box-shadow: 10px 10px 20px black;
+		
+		}
+		
+.container1 {
+	
+			margin-left: auto;
+			margin-right: auto;
+			
+			}
+			
+.container2 {
+	
+			display: flex;
+			
+			}
+			
+.container3 {
+	
+			margin-left: auto;
+			margin-right: auto;
+			
+			}
+			
+.container4 {
+	
+			display: flex;
+			
+			}
+			
+.container5 {
+	
+			margin-left: auto;
+			margin-right: auto;
+			
+			}
+			
+.container6 {
+	
+			display: flex;
+			
+			}
+
+nav {
+width: 100%;
+background-color: #002D9780;
+}
+
+ul {
+text-align: center;
+}
+
+li {
+list-style: none;
+display: inline-block;
+}
+
+a {
+display: inline-block;
+text-decoration: none;
+text-transform: uppercase;
+color: #ffffff;
+font-size: 15px;
+letter-spacing: 2px;
+font-family: 'Raleway', Seriff;
+font-weight: 600;
+padding: 25px;
+}
+
+a:hover {
+background-color: #211b4385;
+transition: all ease 1.5s;
+}
+
+table	{
+		border: solid 10px white;
+		padding: 10px;
+		margin: 10px;
+		border-style: ridge;
+		border-width: 12px;
+		border-color: blue;
+		border-bottom-color: gold;
+		border-right-color: gold;
+		border-radius: 1  0px;
+		box-shadow: 10px 10px 20px black;
+		
+		}
+
